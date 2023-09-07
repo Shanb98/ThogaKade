@@ -1,0 +1,118 @@
+
+`	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112^"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112x"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112z"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(¨Áİô
+J
+java:S3740"/Provide the parametrized type for this generic.(¸×¢˜øÿÿÿÿ
+E
+java:S3740$"/Provide the parametrized type for this generic.(Ö«±Ö
+E
+java:S3740%"/Provide the parametrized type for this generic.(¶ı¡•
+J
+java:S3740&"/Provide the parametrized type for this generic.(‰å¾…úÿÿÿÿ
+E
+java:S3740'"/Provide the parametrized type for this generic.(Õ…¼í
+E
+java:S3740("/Provide the parametrized type for this generic.(¨­Ì˜
+E
+java:S3740)"/Provide the parametrized type for this generic.(Şâê
+L
+java:S3740e"/Provide the parametrized type for this generic.(øÖış8ÃÊ‘ê1
+L
+java:S3740e"/Provide the parametrized type for this generic.(øÖış8ÄÊ‘ê1
+M
+java:S3740€"/Provide the parametrized type for this generic.(øÖış8ÅÊ‘ê1
+M
+java:S3740€"/Provide the parametrized type for this generic.(øÖış8ÅÊ‘ê1
+M
+java:S3740¢"/Provide the parametrized type for this generic.(ÒÇ›·8ÆÊ‘ê1
+R
+java:S3740±"/Provide the parametrized type for this generic.(»Ó¸şÿÿÿÿ8ÆÊ‘ê1
+k	java:S117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Í÷şÿÿÿÿ
+l	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚İ‹Øÿÿÿÿÿ
+w
+java:S1488t"\Immediately return this expression instead of assigning it to the temporary variable "item".(Õ€Çıÿÿÿÿ
+|
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "customer".(ŒÚµ£üÿÿÿÿ
+p
+java:S1104"UMake btnAddCus a static final constant or non-public and provide accessors if needed.(şğ˜±ùÿÿÿÿ
+n
+java:S1104"SMake lblDate a static final constant or non-public and provide accessors if needed.(ô¯Á³üÿÿÿÿ
+n
+java:S1104"XMake cmbAddCusIds a static final constant or non-public and provide accessors if needed.(¨Áİô
+s
+java:S1104"XMake cmbItemCodes a static final constant or non-public and provide accessors if needed.(¸×¢˜øÿÿÿÿ
+q
+java:S1104"VMake txtCusName a static final constant or non-public and provide accessors if needed.(æŸ°Çÿÿÿÿÿ
+u
+java:S1104"ZMake txtDescription a static final constant or non-public and provide accessors if needed.(ıŞøÿÿÿÿ
+s
+java:S1104"XMake txtUnitPrice a static final constant or non-public and provide accessors if needed.(¿¯‘ïıÿÿÿÿ
+n
+java:S1104 "XMake txtQtyOnHand a static final constant or non-public and provide accessors if needed.(Á‚¼
+h
+java:S1104!"RMake txtQty a static final constant or non-public and provide accessors if needed.(ÅÈ
+n
+java:S1104""XMake btnAddToCart a static final constant or non-public and provide accessors if needed.(ÏÏ¹
+o
+java:S1104#"TMake btnClear a static final constant or non-public and provide accessors if needed.(¸¹„üÿÿÿÿ
+i
+java:S1104$"SMake colCode a static final constant or non-public and provide accessors if needed.(Ö«±Ö
+p
+java:S1104%"ZMake colDescription a static final constant or non-public and provide accessors if needed.(¶ı¡•
+m
+java:S1104&"RMake colQty a static final constant or non-public and provide accessors if needed.(‰å¾…úÿÿÿÿ
+n
+java:S1104'"XMake colUnitPrice a static final constant or non-public and provide accessors if needed.(Õ…¼í
+j
+java:S1104("TMake colTotal a static final constant or non-public and provide accessors if needed.(¨­Ì˜
+i
+java:S1104)"SMake tblCart a static final constant or non-public and provide accessors if needed.(Şâê
+t
+java:S1104*"YMake lblGrandTotal a static final constant or non-public and provide accessors if needed.(ª¯ßÆûÿÿÿÿ
+q
+java:S1104+"VMake btnAddItem a static final constant or non-public and provide accessors if needed.(åÚŸàùÿÿÿÿ
+q
+java:S1104-"VMake txtOrderId a static final constant or non-public and provide accessors if needed.(ŠÏ”»øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ü‚ùıúÿÿÿÿ
+]
+java:S2259g"BA "NullPointerException" could be thrown; "item" is nullable here.(¤°ŒÈøÿÿÿÿ
+^
+java:S2095Š"GUse try-with-resources or close this "Statement" in a "finally" clause.(†—İ
+k
+java:S2095¨"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Å¼‚Ãşÿÿÿÿ
+k
+java:S2095˜"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Å¡¯Ğıÿÿÿÿ
+^
+java:S2095ä"GUse try-with-resources or close this "Statement" in a "finally" clause.(†—İ
+]
+java:S2095q"GUse try-with-resources or close this "Statement" in a "finally" clause.(†—İ
+e
+java:S2095™"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ªÏ†Z
+_
+java:S2583Š"CChange this condition so that it does not always evaluate to "true"(ŒÚˆèÿÿÿÿÿ
+H
+java:S2326"&OrderDetails is not used in the class.(Åˆöÿÿÿÿÿ8Ì‘ê1
+j	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Åˆöÿÿÿÿÿ8Ì‘ê1
+c
+java:S39862"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(‰‹¿«üÿÿÿÿ
+G
+java:S1602O",Remove useless curly braces around statement(ûŒàûÿÿÿÿ
+G
+java:S1602R",Remove useless curly braces around statement(ÖÈ­µıÿÿÿÿ
+[
+java:S2147y"ECombine this catch with the one at line 119, which has the same body.(ıàÑÎ
+N
+java:S1172µ"2Remove this unused method parameter "actionEvent".(Š²Ô¢úÿÿÿÿ
+T	java:S106Ä"9Replace this use of System.out or System.err by a logger.(”Ò¦¢ûÿÿÿÿ
+H
+java:S1172ù"2Remove this unused method parameter "actionEvent".(øöÿ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(·²èêıÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(œºªË
+O	java:S106"9Replace this use of System.out or System.err by a logger.(åÄ×˜
+O	java:S106£"9Replace this use of System.out or System.err by a logger.(é§îñ
+[
+java:S1128"@Remove this unused import 'javax.swing.table.DefaultTableModel'.(è†åûÿÿÿÿ

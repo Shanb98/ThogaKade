@@ -1,0 +1,66 @@
+
+`	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112g"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112j"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+z
+java:S11924"_Define a constant instead of duplicating this literal "Something went wrong try again" 3 times.(²¸Åôøÿÿÿÿ
+k	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÍÑÛúÿÿÿÿ
+f	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š©ê
+k	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…øñäúÿÿÿÿ
+l	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûâ«øşÿÿÿÿ
+i
+java:S1104"SMake txtCode a static final constant or non-public and provide accessors if needed.(„¤ãî
+u
+java:S1104"ZMake txtDescription a static final constant or non-public and provide accessors if needed.(ıŞøÿÿÿÿ
+s
+java:S1104"XMake txtUnitPrice a static final constant or non-public and provide accessors if needed.(¿¯‘ïıÿÿÿÿ
+n
+java:S1104"XMake txtQtyOnHand a static final constant or non-public and provide accessors if needed.(Á‚¼
+n
+java:S1104"SMake btnSave a static final constant or non-public and provide accessors if needed.(Æ ‡’úÿÿÿÿ
+i
+java:S1104"SMake btnView a static final constant or non-public and provide accessors if needed.(ó º
+p
+java:S1104"UMake btnUpdate a static final constant or non-public and provide accessors if needed.(”ƒ³Šÿÿÿÿÿ
+k
+java:S1104"UMake btnSearch a static final constant or non-public and provide accessors if needed.(É¹ŠÄ
+k
+java:S1104"UMake btnDelete a static final constant or non-public and provide accessors if needed.(ˆªü›
+n
+java:S1104"SMake btnExit a static final constant or non-public and provide accessors if needed.(ñÿ¯©øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ü‚ùıúÿÿÿÿ
+^
+java:S2095…"GUse try-with-resources or close this "Statement" in a "finally" clause.(†—İ
+e
+java:S2095,"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÄã÷
+e
+java:S2095Y"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÄã÷
+f
+java:S2095Ÿ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ã›¸·
+]
+java:S2095r"GUse try-with-resources or close this "Statement" in a "finally" clause.(†—İ
+T
+java:S3655*"9Call "buttonType.isPresent()" before accessing the value.(²Ôûøùÿÿÿÿ
+T
+java:S3655W"9Call "buttonType.isPresent()" before accessing the value.(²Ôûøùÿÿÿÿ
+U
+java:S3655‚"9Call "buttonType.isPresent()" before accessing the value.(²Ôûøùÿÿÿÿ
+i
+java:S1845B"SRename method "btnExit" to prevent any misunderstanding/clash with field "btnExit".(ä»©ˆ
+G
+java:S1172"2Remove this unused method parameter "actionEvent".(õİŞ7
+Z
+java:S2147<"DCombine this catch with the one at line 57, which has the same body.(É®£
+H
+java:S1172B"2Remove this unused method parameter "actionEvent".(ä»©ˆ
+M
+java:S1172K"2Remove this unused method parameter "actionEvent".(ø´ÜÖøÿÿÿÿ
+[
+java:S2147i"ECombine this catch with the one at line 102, which has the same body.(É®£
+H
+java:S1172o"2Remove this unused method parameter "actionEvent".(İ÷˜ã
+I
+java:S1172€"2Remove this unused method parameter "actionEvent".(Ä‹Õ
+F
+java:S1128"+Remove this unused import 'Model.Customer'.(Àğ”«ÿÿÿÿÿ
