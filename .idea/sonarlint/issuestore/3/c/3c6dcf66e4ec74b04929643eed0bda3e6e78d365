@@ -30,22 +30,22 @@ java:S1104"UMake btnDelete a static final constant or non-public and provide a
 n
 java:S1104"SMake btnExit a static final constant or non-public and provide accessors if needed.(ñÿ¯©øÿÿÿÿ
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ü‚ùıúÿÿÿÿ
+f
+java:S2095Ÿ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ã›¸·
+e
+java:S2095Y"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÄã÷
 ^
 java:S2095…"GUse try-with-resources or close this "Statement" in a "finally" clause.(†—İ
 e
 java:S2095,"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÄã÷
-e
-java:S2095Y"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÄã÷
-f
-java:S2095Ÿ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ã›¸·
 ]
 java:S2095r"GUse try-with-resources or close this "Statement" in a "finally" clause.(†—İ
-T
-java:S3655*"9Call "buttonType.isPresent()" before accessing the value.(²Ôûøùÿÿÿÿ
 T
 java:S3655W"9Call "buttonType.isPresent()" before accessing the value.(²Ôûøùÿÿÿÿ
 U
 java:S3655‚"9Call "buttonType.isPresent()" before accessing the value.(²Ôûøùÿÿÿÿ
+T
+java:S3655*"9Call "buttonType.isPresent()" before accessing the value.(²Ôûøùÿÿÿÿ
 i
 java:S1845B"SRename method "btnExit" to prevent any misunderstanding/clash with field "btnExit".(ä»©ˆ
 G

@@ -83,15 +83,15 @@ java:S2259g"BA "NullPointerException" could be thrown; "item" is nullable here.
 ^
 java:S2095Š"GUse try-with-resources or close this "Statement" in a "finally" clause.(†—İ
 k
-java:S2095¨"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Å¼‚Ãşÿÿÿÿ
-k
 java:S2095˜"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Å¡¯Ğıÿÿÿÿ
-^
-java:S2095ä"GUse try-with-resources or close this "Statement" in a "finally" clause.(†—İ
 ]
 java:S2095q"GUse try-with-resources or close this "Statement" in a "finally" clause.(†—İ
+^
+java:S2095ä"GUse try-with-resources or close this "Statement" in a "finally" clause.(†—İ
 e
 java:S2095™"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ªÏ†Z
+k
+java:S2095¨"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Å¼‚Ãşÿÿÿÿ
 _
 java:S2583Š"CChange this condition so that it does not always evaluate to "true"(ŒÚˆèÿÿÿÿÿ
 H
@@ -107,12 +107,12 @@ java:S1602R",Remove useless curly braces around statement(ÖÈ­µıÿÿÿÿ
 java:S2147y"ECombine this catch with the one at line 119, which has the same body.(ıàÑÎ
 N
 java:S1172µ"2Remove this unused method parameter "actionEvent".(Š²Ô¢úÿÿÿÿ
-T	java:S106Ä"9Replace this use of System.out or System.err by a logger.(”Ò¦¢ûÿÿÿÿ
+F	java:S106Ä"+Replace this use of System.out by a logger.(”Ò¦¢ûÿÿÿÿ
 H
 java:S1172ù"2Remove this unused method parameter "actionEvent".(øöÿ
-T	java:S106‹"9Replace this use of System.out or System.err by a logger.(·²èêıÿÿÿÿ
-O	java:S106"9Replace this use of System.out or System.err by a logger.(œºªË
-O	java:S106"9Replace this use of System.out or System.err by a logger.(åÄ×˜
-O	java:S106£"9Replace this use of System.out or System.err by a logger.(é§îñ
+F	java:S106‹"+Replace this use of System.out by a logger.(·²èêıÿÿÿÿ
+A	java:S106"+Replace this use of System.out by a logger.(œºªË
+A	java:S106"+Replace this use of System.out by a logger.(åÄ×˜
+A	java:S106£"+Replace this use of System.out by a logger.(é§îñ
 [
 java:S1128"@Remove this unused import 'javax.swing.table.DefaultTableModel'.(è†åûÿÿÿÿ
